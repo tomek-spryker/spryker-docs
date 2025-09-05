@@ -16,7 +16,7 @@ related:
 
 
 [Spryker Support Portal](https://support.spryker.com/s/) is the main portal for interacting with Spryker support. In the portal, you can have 3 (Standard Access) or 10 (Premier Access) licenses. To get access to the support portal [fill out the Portal Access Request
- form](https://www.surveymonkey.com/r/XYK5R26).
+ form](https://support.spryker.com/s/portal-access-request).
 
 ## Best practices for Partners and SIs
 
